@@ -1,0 +1,226 @@
+[16-Aug-2018 09:24:27 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:24:27 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:24:27 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:33:24 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:33:24 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:33:24 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:24 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:24 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:24 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:25 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:25 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:25 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:28 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:28 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:28 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:30 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:30 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:30 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:40 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:40 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:40 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:41 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:41 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:41 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 09:35:50 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:50 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 09:35:50 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:08:54 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:08:54 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:08:54 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:13:10 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:13:10 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:13:10 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:13:11 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:13:11 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:13:11 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:13:13 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:13:13 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:13:13 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:20:03 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:03 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:03 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:20:04 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:04 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:04 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:20:06 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:06 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:06 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:20:07 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:07 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:07 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 13:20:07 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:07 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 13:20:07 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 14:42:43 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:43 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 719
+[16-Aug-2018 14:42:43 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[16-Aug-2018 14:42:49 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:49 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:49 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:49 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[16-Aug-2018 14:42:52 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:52 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:52 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:52 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[16-Aug-2018 14:42:53 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:53 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:53 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:53 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[16-Aug-2018 14:42:54 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:54 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:54 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:54 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[16-Aug-2018 14:42:54 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:54 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:54 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:54 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[16-Aug-2018 14:42:55 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:55 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:55 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:55 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[16-Aug-2018 14:42:56 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:56 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[16-Aug-2018 14:42:56 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[16-Aug-2018 14:42:56 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 311
+[19-Aug-2018 05:52:58 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 04:52:38 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 04:53:38 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:53:38 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[20-Aug-2018 04:53:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[20-Aug-2018 04:53:45 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:53:45 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:53:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:09 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:54:09 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:54:09 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 31
+[20-Aug-2018 04:54:11 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:54:11 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:54:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:24 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:55:24 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:55:24 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 31
+[20-Aug-2018 04:55:31 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:55:31 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 04:55:31 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[20-Aug-2018 05:56:10 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 05:56:28 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 05:57:41 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:57:41 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:57:41 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:57:54 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:57:54 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:57:54 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:58:05 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:05 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:05 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:58:54 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:54 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:54 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:58:57 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:57 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:57 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:58:58 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:58 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:58 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:58:58 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:58 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:58 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:58:59 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:59 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:58:59 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:59:38 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:38 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:38 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:59:46 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:46 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:46 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:59:47 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:47 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:47 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:59:48 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:48 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:48 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:59:48 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:48 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:48 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 05:59:56 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:56 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 05:59:56 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 06:00:53 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:00:53 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:00:53 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 06:01:25 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:01:25 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:01:25 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 06:01:28 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:01:28 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:01:28 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344
+[20-Aug-2018 06:01:30 UTC] PHP Warning:  include_once(/admin/common/functions.php): failed to open stream: No such file or directory in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:01:30 UTC] PHP Warning:  include_once(): Failed opening '/admin/common/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 7
+[20-Aug-2018 06:01:30 UTC] PHP Fatal error:  Call to undefined function ifish_validatePassword() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 344

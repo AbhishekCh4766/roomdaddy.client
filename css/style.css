@@ -1,0 +1,16 @@
+.b-profile .btn-block{
+	float:left;
+	width:50%;
+}   
+.b-profile .b-profile-follow{
+    height: inherit; 
+	
+}
+.b-profile .b-profile-follow .unit{
+	width:100%;
+	text-align:center;
+}
+.form_client .panel-heading .panel-title{
+	font-size: :18px;
+	font-weight: bold;
+}

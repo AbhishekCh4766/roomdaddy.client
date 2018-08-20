@@ -1,0 +1,135 @@
+.minoru_input_fild input{
+padding: 8px 10px 10px;
+line-height: 31px;
+}
+.user .user-content.active{
+	z-index:99999;
+}
+.b-profile-botton .btn-block{
+width:23.4%;
+margin:0% 1% 2% 0px;
+float: left;
+font-size: 17px;
+border-radius:30px;
+}
+.b-profile-room{
+	float:left;
+	width:100%;
+}
+
+.b-profile-botton {
+    float: left;
+    width: 100%;
+    border-top: 1px solid #fff;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+.b-profile-main .b-profile-follow{
+    height: inherit; 
+	float: left;
+border: none !important;
+	margin: 5px 10px 0px 0px;
+}
+.b-profile-main .b-profile-follow .unit{
+	width:100%;
+	text-align:center;
+	background: #585b9c;
+	border: none !important;
+padding: 7px 20px;
+}
+.b-profile-main {
+    float: left !important;
+    width: 100% !important;
+		padding-right: 0px !important;
+}
+.activities-main .input__field--minoru{
+	padding: 10px 0px;
+width: 100%;
+}
+.b-profile-main .decor-primary {
+    background-color: #7266ba;
+	    float: left;
+    width: 100%;
+} 
+.no-cleaner-bx{
+	float: left !important;
+    width: 100% !important;
+
+}
+.ubit .admin-data{
+	float: right;
+}
+.no-cleaner-bx .activities{
+	background:#fff !important;
+}
+.no-cleaner-bx #message{
+	background:#f3f3f3;
+	height: 49px;
+	padding: 5px 10px 8px;
+	color: #000 !important;
+	float:left;
+}
+.activities .unit .avatar img{
+	height:100%;
+}
+.no-cleaner-bx .field.title b span{
+	color:#41b181;
+}
+.no-cleaner-bx .activities h5{
+	font-size:18px;
+	margin-bottom: 10px;
+}
+.no-cleaner-bx .activities .unit{
+	background:inherit !important;
+	border-bottom:none !important;
+	
+}
+.decor-primary-main-bx{
+	background:#fff !important;
+}
+.decor-primary-main-bx .x_panel h4{
+	font-size: 24px;
+font-weight: bold;
+	margin-bottom:20px;
+}
+.decor-primary-main-bx .table-bordered tr th{
+	font-weight:bold;
+}
+.decor-primary-main-bx .table-bordered tr td{
+	padding:10px 7px;
+	font-size: 14px;
+}
+.form_client .panel-heading .panel-title{
+	font-size: 24px;
+	font-weight: bold;
+}
+.form_client .form-group .control-label{
+	margin-top: 20px;
+
+}
+.form_client .form-control{
+	height: 45px;
+
+}
+.form_client img.img-circle{
+	height:200px;
+	width:200px;
+}
+#pic_occupant {
+    margin: auto;
+    padding: 20px 0px;
+}
+
+
+
+.tr_bg{
+	background: #b3b2b2;
+}
+body .table > tbody > tr > td{
+	border: 1px solid #b3b2b2;
+}
+
+.second{
+	margin-left:20px;
+	background: #056b6a !important;
+}
